@@ -11,7 +11,7 @@ These are some of the areas I'm currently working in:
 
 These are some of the projects I've completed:
 - **Causal Inference with Observational Data**
-  * I've completed a paper studying the impacts of city managers on municipal turnout, using the most recent dataset available, and propensity score matching techniques to draw causal inferences from observational data. The paper was just published in the Spring 2026 edition of American University's undergraduate journal, Clocks and Clouds, and it can be found [here](https://edspace.american.edu/clocksandclouds/wp-content/uploads/sites/115/2025/04/Spring-2025-Final-Publication-Digital.pdf). [Repo](https://github.com/Noch05/city_managers). The [repository](https://github.com/Noch05/city_managers) with the code is also public.
+  * I've completed a paper studying the impacts of city managers on municipal turnout, using the most recent dataset available, and propensity score matching techniques to draw causal inferences from observational data. The paper was just published in the Spring 2025 edition of American University's undergraduate journal, Clocks and Clouds, and it can be found [here](https://edspace.american.edu/clocksandclouds/wp-content/uploads/sites/115/2025/04/Spring-2025-Final-Publication-Digital.pdf). [Repo](https://github.com/Noch05/city_managers). The [repository](https://github.com/Noch05/city_managers) with the code is also public.
 
 
 Feel free to checkout my [LinkedIn](https://www.linkedin.com/in/noah-ochital-515317324/), and contact me here at <noahochital@icloud.com>
