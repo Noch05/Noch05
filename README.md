@@ -7,7 +7,7 @@ These are some of the areas I'm currently working in:
    * I'm currently developing an R package that re-analyzes randomized controlled trials as adaptive designs using Thompson sampling or UCB1 decision algorithms. Repo will be made public when possible.
    * This package will be used to re-analyze experimental data from various traditional public policy experiments, resulting in an academic paper.
 - **Machine Learning**:
-   * I've finished a paper examining the utility of using survey data and simple machine learning models to perform political donor classification. Currently looking for presentation/publication opportunities, and the repo will be made public when possible.
+   * I've finished a paper examining the utility of using survey data and simple machine learning models to perform political donor classification. Currently looking for presentation/publication opportunities, and the replication repo with the data and code is available [here](https://github.com/Noch05/predict_donor_behavior)
 
 These are some of the projects I've completed:
 - **Causal Inference with Observational Data**
