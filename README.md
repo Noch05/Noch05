@@ -8,13 +8,13 @@ These are some of the areas I'm currently working in:
   * I've developed `{whatifbandit}`, an R package that re-analyzes randomized controlled trials as adaptive designs. We support Thompson Sampling and UCB1 decision algorithms, along with other customizations to tailor the simulation.
   * Available on [CRAN](https://cran.r-project.org/package=whatifbandit). Development version on [GitHub](https://github.com/Noch05/whatifbandit).
   * Looking to expand support for more data types and modelling frameworks in future updates.
-- **Economic Impacts of Regional Autonomy**
-   * Small case study involving Northern Italian Regions, and 4 German Länder to isolate the impact of regional autonomy on GDP, GDP Per Capita, and GDP Growth
-   * Utilizing the Regio-EU 1977-1996 economic dataset, and panel data methods such as random effects, fixed effects, and mixed-level models.
-   * Repo will be public soon
+
 
 
 These are some of the projects I've completed:
+- **Economic Impacts of Regional Autonomy**
+   * Small case study involving Northern Italian Regions, and 4 German Länder to isolate the impact of regional autonomy on GDP, GDP Per Capita, and GDP Growth
+   * Utilizing the Regio-EU 1977-1996 economic dataset, and panel data methods such as random effects, fixed effects, and mixed-level models.
 - **Machine Learning**:
    * I'm presenting at the Southern Political Science Research Conference 2026 on my paper examining the utility of using survey data and simple machine learning models to perform political donor classification. Currently looking for publication opportunities. The replication repo with the data and code is available [here](https://github.com/Noch05/predict_donor_behavior)
 - **Causal Inference with Observational Data**
